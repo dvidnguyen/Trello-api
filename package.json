@@ -1,0 +1,16 @@
+{
+  "name": "trello-api",
+  "version": "1.0.0",
+  "description": "dvid nguyen ",
+  "main": "src/sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dvid nguyen",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.21.2",
+    "kill-port": "^2.0.1"
+  }
+}
